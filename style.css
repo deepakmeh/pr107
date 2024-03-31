@@ -1,0 +1,36 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+}
+
+h1{
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+   font-size: large;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    color: aqua;
+}
+
+img{
+    width: 360px;
+    height: 250px;
+    padding: 10%;
+    box-shadow: none;
+}
+
+img:hover{
+    border-radius: 250px;
+}
+
+.column{
+    display: inline;
+    padding: 50px;
+}
